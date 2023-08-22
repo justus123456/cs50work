@@ -1,0 +1,23 @@
+body{
+    background-color:#826F66 ;
+} 
+.oin{
+    font-size:25px;
+    text-align: center;
+    line-height:50px ;
+    word-spacing:20px ;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.wow{
+    text-align: center;
+    text-decoration: underline;
+    font: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.da{
+    border: 3px dashed;
+}
